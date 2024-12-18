@@ -1,5 +1,5 @@
 
-- [Netlify](https://17-lesson-beige.vercel.app/)netlify
+- [Netlify](https://17-lesson-beige.vercel.app/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
